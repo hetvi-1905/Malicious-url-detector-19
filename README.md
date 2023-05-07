@@ -13,14 +13,14 @@ Such a tool is useful to detect whether the website being visited, is legal or p
   <li> EDA </li>
   <li> Correlation </li>
   <li> Applying different models on Traning Data</li>
-  <li> Building simple User Interface using Flask </li>
-  
+  <li> Building simple User Interface using Flask </li> 
 </ul>
 
 
 ## 📷 Screenshots
-![image](https://user-images.githubusercontent.com/84613393/236669715-cd5e0b22-c71b-49c4-9f77-84d2c89885e3.png)
-![image](https://user-images.githubusercontent.com/84613393/236669707-064f2455-d1cb-4157-9673-ec35134370a3.png)
+![image](https://user-images.githubusercontent.com/84613393/236670319-ef4a6373-f0f0-4258-a9ee-7c9811b67383.png)
+![image](https://user-images.githubusercontent.com/84613393/236670324-341fbd88-8dd2-4dcd-9184-2b9cb524bdbd.png)
+
 
  ## 🔨 Tech-Stack
  <ul>
